@@ -2,3 +2,4 @@ CATATAN PEMULA
 - Saya akan belajar setiap malam setelah narik
 - Saya akan mendalami github
 - saya akan memahami tutorial dari web programmer
+- saya ingin membuat sebuah project
