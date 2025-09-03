@@ -3,5 +3,8 @@ RENCANA PEMBELAJARAN
 - Java script
 * E56
 * framwork java script
+  ^vue
 - Struktur data dasar
 - PHP framwork
+^laravel
+-python
