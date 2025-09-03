@@ -3,5 +3,7 @@ RENCANA PEMBELAJARAN
 - Java script
 * E56
 * framwork java script
-- Struktur data dasar
+  ^angular
+  ^ react
 - PHP framwork
+  ^ laravel
